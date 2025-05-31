@@ -31,7 +31,7 @@ This inner class is used to represent individual users. Each user has a name and
 ### 2.MovieRecommendationEngine Class
 This static inner class contains the logic to calculate similarity between users and to generate movie recommendations. The method calculaterSimilarity() implements the **Euclidean distance-based similarity formula**, which compares the ratings of two users over commonly rated movies. The similarity score is calculated as:
 
-​
+​![Image](https://github.com/user-attachments/assets/43e15ee3-e482-456c-b4a9-4fc5bb09b144)
  
 A higher similarity score implies that the two users have similar tastes.
 

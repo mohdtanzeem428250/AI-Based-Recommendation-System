@@ -12,7 +12,9 @@ DURATION : 8 WEEKS
 
 MENTOR : NEELA SANTHOSH KUMAR
 
-Task Description: AI-Based-Recommendation-System
+---
+
+# Task Description: AI-Based-Recommendation-System
 
 ---
 
